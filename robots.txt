@@ -40,4 +40,4 @@ Disallow: /nconfig.php
 Disallow: /ips.php
 Disallow: /trap.php
 
-Sitemap: https://www.hub.us/xmls/sitemap/sitemap-index.xml
+Sitemap: https://www.hub.86it.us/xmls/sitemap/sitemap-index.xml
