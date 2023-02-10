@@ -51,9 +51,9 @@ persistency : Connection Persistency
 --------------------------------- */
 $db_type        = "MySQLi";
 $db_host        = "localhost";
-$db_user        = "hub_site";
-$db_pass        = "xwdNPADv86hs";
-$db_name        = "hub_site";
+$db_user        = "theghost_abode";
+$db_pass        = "xwdNPADv86ha";
+$db_name        = "theghost_abode";
 $db_prefix      = "nuke"; //Without "_"
 $db_persistency = false;
 
@@ -65,9 +65,9 @@ Key Pair to Enable RSA.
 You can Copy & Paste the rsa_keygen Output
 --------------------------------- */
 $use_rsa     = false;
-$rsa_modulo  = 45393419;
-$rsa_public  = 6011;
-$rsa_private = 11965931;
+$rsa_modulo  = 26925823;
+$rsa_public  = 9151;
+$rsa_private = 25015351;
 
 /*----------------------------------
 Torrent Upload Directory
